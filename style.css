@@ -25,9 +25,6 @@ body {
     margin-right: auto;
 }
 
-.nav-links {
-    margin-left: auto;
-}
 
 .hero {
     display: flex;
@@ -37,8 +34,6 @@ body {
     flex-wrap: wrap;
     padding: 50px;
     color: white;
-    flex: 0;
-    flex-basis: 50%;
 }
 
 .main-hero-text{
