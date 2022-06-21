@@ -1,0 +1,18 @@
+body {
+    display: flex;
+    flex-direction: column;
+    flex: auto;
+    margin: 0
+}
+
+.header {
+    display: flex;
+    background-color: #1F2937;
+    flex-shrink: 0;
+    padding: 20px 200px;
+    color: white;
+}
+
+.header-links{
+    margin-left: auto;
+}
